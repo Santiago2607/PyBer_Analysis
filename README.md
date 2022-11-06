@@ -20,8 +20,12 @@ Using the information from the CSV files such as the different kinds of cities (
 
 ![Fig5](https://user-images.githubusercontent.com/113261292/200179478-bd14402d-1b10-4ec5-b1e1-62edebffc75f.png)
 Despite the fact that everything pointed out Urban cities are the best market for PyBer, this also has a lot to do with the average fare per ride and the average fare per driver. 
+
 Based on our analysis, the average fare per ride in the Urban, Suburban, and Rural cities is $24.53, $30.97, and $34.62 respectively. Also, the average fare per driver in the Urban, Suburban, and Rural cities is $16.57,  $39.50, and $55.49 respectively as well. 
+
 With this information, we can demonstrate that Urban cities are so far the best market for PyBer and Rural cities the least, due to the differences in fare by ride and driver.  
+
+INSERT CHART
 
 ## Summary
 
