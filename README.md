@@ -29,3 +29,10 @@ INSERT CHART
 
 ## Summary
 
+Finally, taking in consideration the results we could gather from the CSV files, some recommendations we can provide to PyBer are:
+
+- Despite Urban cities might be crowded with a lot of rival companies around, PyBer should consider raising the fare per driver since is considerably low compared to Suburban and Rural cities and drivers could consider working for other companies with better offers.
+
+- Rural cities are categorized for having long distances places that influence at the moment of using a ride app, so for this case, it would be worth it for PyBer to try to lower the fares since people might try to take another kind of transportation in order to avoid paying expensive rides.
+
+- It would be good to consider reducing the number of drivers in Urban cities because compared with the other types of cities where the number of rides is higher than the number of drivers, in Urban cities there are 2,405 drivers that have only accomplished 1,625 rides. This means there are drivers that are not contributing to the success of the company but wasting resources that could be used in better ways. 
