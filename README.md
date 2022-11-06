@@ -16,3 +16,8 @@ Using the information from the CSV files such as the different kind of cities (U
 
 
 ## Summary
+
+
+
+![Fig7](https://user-images.githubusercontent.com/113261292/200179475-514db61d-f4f7-42bc-a309-d0cf036e747c.png)
+![Fig5](https://user-images.githubusercontent.com/113261292/200179478-bd14402d-1b10-4ec5-b1e1-62edebffc75f.png)
