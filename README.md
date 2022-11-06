@@ -25,7 +25,7 @@ Based on our analysis, the average fare per ride in the Urban, Suburban, and Rur
 
 With this information, we can demonstrate that Urban cities are so far the best market for PyBer and Rural cities the least, due to the differences in fare by ride and driver.  
 
-                    ![Fig8](https://user-images.githubusercontent.com/113261292/200202335-0d8cc37e-749b-4104-8323-304619298771.PNG)
+![Fig8](https://user-images.githubusercontent.com/113261292/200202335-0d8cc37e-749b-4104-8323-304619298771.PNG)
 
 ## Summary
 
