@@ -30,7 +30,7 @@ Below we present the two charts that represent all our analysis with the dataset
 ![Fig8](https://user-images.githubusercontent.com/113261292/200202335-0d8cc37e-749b-4104-8323-304619298771.PNG)
 
 
-![PyBer_fare_summary](https://user-images.githubusercontent.com/113261292/200205176-a0975f10-fa0b-48f1-8b09-1a041f94fddd.png)
+![PyBer_fare_summary](https://user-images.githubusercontent.com/113261292/200205649-c4af1c49-1225-4bf5-80fe-61a0a8b8f174.png)
 
 ## Summary
 
